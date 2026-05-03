@@ -1,3 +1,7 @@
+NOTE:
+Project Context: This repository is a modular demonstration of a larger quantitative framework. The full-scale system, including live execution logic and expanded data pipelines, is available at **gadisap.github.io** and the **AI_Sector_Statistical_Arbitrage_Live** codebase.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 AI Sector Trading Strategy: Finding Value in Market Gaps
 This project builds a system to identify and trade pairs of AI stocks that have a strong historical connection. When one stock in a pair becomes too expensive or too cheap relative to the other, the system triggers a trade, betting that they will eventually sync back up.
 
